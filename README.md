@@ -1,37 +1,6 @@
 # 🤖 AI-Powered Natural Language to SQL Analytics Assistant
 
 An end-to-end **AI, Data Analytics, Machine Learning, SQL, and Backend Engineering** project that allows users to ask business questions in natural language and receive analytical results without manually writing SQL queries.
-
-The project combines:
-
-- Python
-- Pandas
-- NumPy
-- SQL
-- SQLite
-- Scikit-learn
-- Machine Learning
-- Data Preprocessing
-- Data Cleaning
-- Exploratory Data Analysis
-- Ollama
-- Phi-3
-- Generative AI
-- Prompt Engineering
-- Natural Language → SQL
-- SQL Validation
-- Streamlit
-- FastAPI
-- Uvicorn
-- Docker
-- Git
-- GitHub
-- Matplotlib
-- Seaborn
-- Plotly
-- Joblib
-- ML workflow automation
-
 ---
 
 # 🚀 Project Overview
@@ -1464,6 +1433,36 @@ Business Insight
 ✅ Git
 ✅ GitHub
 ✅ ML Workflow Automation
+
+The project combines:
+
+- Python
+- Pandas
+- NumPy
+- SQL
+- SQLite
+- Scikit-learn
+- Machine Learning
+- Data Preprocessing
+- Data Cleaning
+- Exploratory Data Analysis
+- Ollama
+- Phi-3
+- Generative AI
+- Prompt Engineering
+- Natural Language → SQL
+- SQL Validation
+- Streamlit
+- FastAPI
+- Uvicorn
+- Docker
+- Git
+- GitHub
+- Matplotlib
+- Seaborn
+- Plotly
+- Joblib
+- ML workflow automation
 
 ### 📚 References
 UCI Online Retail II
