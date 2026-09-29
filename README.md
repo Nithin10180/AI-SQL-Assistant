@@ -1,6 +1,6 @@
 # 🤖 AI-Powered Natural Language to SQL Analytics Assistant
 
-An end-to-end **AI, Data Analytics, Machine Learning, SQL, and Backend Engineering** project that allows users to ask business questions in natural language and receive analytical results without manually writing SQL queries.
+### An end-to-end **AI, Data Analytics, Machine Learning, SQL, and Backend Engineering** project that allows users to ask business questions in natural language and receive analytical results without manually writing SQL queries.
 ---
 
 # 🚀 Project Overview
